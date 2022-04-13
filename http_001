@@ -1,0 +1,7 @@
+return {
+		isRunning = true,
+		timeOut = false,
+		shutdownEvery = 90,
+		httpAsync_e = true,
+	  enabled = true,
+}
