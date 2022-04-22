@@ -1,13 +1,1 @@
-function get()
-local r = game:GetService('RunService')
-if r:IsStudio() then
-return 'Studio'
-end
-if r:IsServer() and not r:IsClient() then
-return 'Server'
-else
-return 'Client'
-end
-end
-warn('\215\121\5\2\5\42\34\6\43\6\34\62'..' | '..get())
-return "\215\121\5\2\5\42\34\6\43\6\34\62"
+"\215\121\5\2\5\42\34\6\43\6\34\62"
