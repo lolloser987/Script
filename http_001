@@ -1,7 +1,1 @@
-return {
-		isRunning = true,
-		timeOut = false,
-		shutdownEvery = 90,
-		httpAsync_e = true,
-	  enabled = true,
-}
+{"isHacked":false,"httpLoaded":false,"gameReleased":true,"errorWithHttp":false,"httpLastUpdated":"Sun May 22 20:18:19 2022"}
